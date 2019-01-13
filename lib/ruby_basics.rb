@@ -10,7 +10,7 @@ def argue(phrase)
   phrase
 end
 
-def greeting(greeting, name)
+def greeting(name, greeting = "Hi there")
 
 end
 
